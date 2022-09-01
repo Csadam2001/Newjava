@@ -10,5 +10,6 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(sum(5,5));
+        System.out.println("blabla");
     }
 }
